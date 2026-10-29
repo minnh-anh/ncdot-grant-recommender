@@ -54,4 +54,4 @@ The project also strengthened my experience with data preprocessing, rule-based 
 ## Project Context
 *The rankings reflect my own assumptions and analytical methodology, rather than official NCDOT funding decisions, including:*
 
-*- Rankings are based on September 25, 2026, as the reference date for grant deadlines.*
+*- September 25, 2026 was used as the reference date for deadline evaluation and scoring.*
